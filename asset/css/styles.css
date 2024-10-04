@@ -211,10 +211,10 @@ body {
        margin-left: 200px;
 }
 
-#imgg{
+/* #imgg{
     height: 30vh;
     max-width: 15vw;
-}
+} */
 
 
 
@@ -224,7 +224,7 @@ h3,
 h4,
 h5,
 h6 {
-    color:  rgb(42, 35, 119);
+    color: rgb(133, 21, 99);
     font-weight: 700;
    
 }
@@ -308,7 +308,7 @@ p {
 }
 
 .bg-base {
-    background-color: #bd894581;
+    background-color: #4cdea281;
 }
 
 .shadow-effect {
